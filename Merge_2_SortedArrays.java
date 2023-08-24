@@ -42,3 +42,7 @@ public class Merge_2_SortedArrays {
         return mergedArr;
     }
 }
+
+//Output :
+
+// [1, 2, 7, 8, 9, 28, 90, 90, 100, 190, 200]
